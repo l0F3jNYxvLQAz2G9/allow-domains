@@ -66,7 +66,7 @@
 <details>
   <summary>Russia inside</summary>
 
-- [RAW](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst)
+- [RAW](https://github.com/l0F3jNYxvLQAz2G9/allow-domains/blob/main/Russia/inside-raw.lst)
 - [Dnsmasq nfset](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-dnsmasq-nfset.lst)
 - [Dnsmasq ipset](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-dnsmasq-ipset.lst)
 - [ClashX](https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-clashx.lst)
